@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Toast dan alert</string>
+    <string name="userkosong">User Kosong</string>
+    <string name="passkosong">Password Kosong</string>
+    <string name="karakterlebih5">Karakter Lebih dari 5</string>
+</resources>
